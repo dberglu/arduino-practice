@@ -1,4 +1,4 @@
 # arduino-practice
 Practice Projects with Arduino
 
-Just testing things ou.
+Just testing things out.
